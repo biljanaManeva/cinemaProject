@@ -1,0 +1,5 @@
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Core\bin\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Core\bin\Debug\Cinema.Core.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Core\obj\Debug\Cinema.Core.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Core\obj\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Core\obj\Debug\Cinema.Core.pdb
