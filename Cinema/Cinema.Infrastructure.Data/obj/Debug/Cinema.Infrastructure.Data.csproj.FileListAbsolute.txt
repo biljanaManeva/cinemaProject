@@ -3,3 +3,15 @@ C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Infrastructure
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.dll
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\obj\Debug\Cinema.Infrastructure.Data.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\Cinema.Infrastructure.Data.dll.config
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\Cinema.Infrastructure.Data.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\Cinema.Infrastructure.Data.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\Cinema.Core.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml

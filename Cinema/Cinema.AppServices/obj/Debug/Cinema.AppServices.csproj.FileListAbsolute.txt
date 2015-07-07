@@ -3,3 +3,14 @@ C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.AppServices\bi
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.csprojResolveAssemblyReference.cache
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.dll
 C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\obj\Debug\Cinema.AppServices.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.AppServices.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.AppServices.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.Infrastructure.Data.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.Core.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\Cinema.Infrastructure.Data.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.AppServices\bin\Debug\EntityFramework.xml

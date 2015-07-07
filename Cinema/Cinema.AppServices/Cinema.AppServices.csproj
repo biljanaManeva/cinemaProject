@@ -39,8 +39,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\GenreDto.cs" />
+    <Compile Include="GenreService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cinema.Core\Cinema.Core.csproj">
+      <Project>{5d7b58a4-8d86-4b6f-996a-8ea357f2b26f}</Project>
+      <Name>Cinema.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cinema.Infrastructure.Data\Cinema.Infrastructure.Data.csproj">
+      <Project>{da6a4415-1ad3-41d2-8b96-e06a098a2f9d}</Project>
+      <Name>Cinema.Infrastructure.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -13,6 +13,7 @@ namespace Cinema.Core.Interfaces
         void Delete(TEntity entity);
         IEnumerable<TEntity> GetAll();
         void Save();
+        void Update(TEntity entity);
 
     }
 }
