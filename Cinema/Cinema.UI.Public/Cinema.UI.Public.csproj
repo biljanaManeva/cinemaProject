@@ -123,6 +123,10 @@
       <Project>{5d7b58a4-8d86-4b6f-996a-8ea357f2b26f}</Project>
       <Name>Cinema.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Cinema.Infrastructure.Common\Cinema.Infrastructure.Common.csproj">
+      <Project>{c49b64ba-25b1-4463-9eb3-427dae90328a}</Project>
+      <Name>Cinema.Infrastructure.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Cinema.Infrastructure.Data\Cinema.Infrastructure.Data.csproj">
       <Project>{da6a4415-1ad3-41d2-8b96-e06a098a2f9d}</Project>
       <Name>Cinema.Infrastructure.Data</Name>

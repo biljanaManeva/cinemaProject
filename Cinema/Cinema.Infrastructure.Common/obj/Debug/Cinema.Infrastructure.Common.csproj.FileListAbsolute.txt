@@ -1,0 +1,4 @@
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Common\bin\Debug\Cinema.Infrastructure.Common.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Common\bin\Debug\Cinema.Infrastructure.Common.pdb
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Common\obj\Debug\Cinema.Infrastructure.Common.dll
+C:\Users\code\Desktop\Biljana Maneva\MVC\30.06.2015\cinemaProject\Cinema\Cinema.Infrastructure.Common\obj\Debug\Cinema.Infrastructure.Common.pdb

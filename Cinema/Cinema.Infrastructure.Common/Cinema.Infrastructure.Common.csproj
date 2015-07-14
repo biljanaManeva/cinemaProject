@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6C9179A-F588-4BF6-A2E6-C5ACA8890154}</ProjectGuid>
+    <ProjectGuid>{C49B64BA-25B1-4463-9EB3-427DAE90328A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Cinema.AppServices</RootNamespace>
-    <AssemblyName>Cinema.AppServices</AssemblyName>
+    <RootNamespace>Cinema.Infrastructure.Common</RootNamespace>
+    <AssemblyName>Cinema.Infrastructure.Common</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,21 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DTOs\GenreDto.cs" />
-    <Compile Include="DTOs\UserDto.cs" />
-    <Compile Include="GenreService.cs" />
+    <Compile Include="Utils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserService.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Cinema.Core\Cinema.Core.csproj">
-      <Project>{5d7b58a4-8d86-4b6f-996a-8ea357f2b26f}</Project>
-      <Name>Cinema.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Cinema.Infrastructure.Data\Cinema.Infrastructure.Data.csproj">
-      <Project>{da6a4415-1ad3-41d2-8b96-e06a098a2f9d}</Project>
-      <Name>Cinema.Infrastructure.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
